@@ -7,8 +7,14 @@ train
 .ipynb_checkpoints
 catboost_info/
 notebook.ipynb
+
+
 test_text_embeddings.npy
 train_text_embeddings.npy
+test_image_embeddings.npy
+train_image_embeddings.npy
 
 submission_catboost_gridsearch.csv
 submission_catboost_with_text.csv
+submission_catboost_oof.csv
+submission_stacking.csv
